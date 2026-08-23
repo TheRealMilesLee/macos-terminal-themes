@@ -433,6 +433,10 @@ the tools that generate the previews.
 
 <img src="screenshots/n0tch2k.png" width="571" alt="Screenshot">
 
+### Nachtschicht ([download](<https://github.com/lysyi3m/macos-terminal-themes/blob/master/themes/Nachtschicht.terminal>))
+
+<img src="screenshots/nachtschicht.png" width="571" alt="Screenshot">
+
 ### Neon Wasteland 1987 ([download](<https://github.com/lysyi3m/macos-terminal-themes/blob/master/themes/Neon Wasteland 1987.terminal>))
 
 <img src="screenshots/neon_wasteland_1987.png" width="571" alt="Screenshot">
